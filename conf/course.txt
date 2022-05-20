@@ -1,0 +1,5 @@
+'Set Course': '/course1/'
+'test_cource': 'course/test_cource/'
+'course_second': '/course3/'
+'course_fird': '/course4/'
+'course_fourth': '/course5/'

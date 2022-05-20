@@ -1,0 +1,5 @@
+'Set Bot': 'API'
+'test_hcfbhr_channel_bot': '5171970699:AAGe79XHfZpVESLIPUNNvughwyvu5TLlPPU'
+'bot_second': 'bot_second'
+'bot_fird': 'bot_fird'
+'bot_fourth': 'bot_fourth'

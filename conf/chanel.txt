@@ -1,0 +1,5 @@
+'Set channel': '@chname'
+'channel_for_test': '@thcfbdev'
+'second_test_ch': '@thcfbdevtest'
+'channel_fird': '@channel_fird'
+'channel_fourth': '@channel_fourth'
